@@ -32,3 +32,5 @@
 [user]
 
   useconfigonly = true
+	email = martin.delobel@decathlon.com
+	name = Martin Delobel
